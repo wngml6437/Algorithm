@@ -29,7 +29,11 @@
 
 # 출처 : https://myjamong.tistory.com/319
 
+
 # 동적계획법
+
+# PyPy3 제출    : 메모리(125936 KB) 시간(176 ms)
+# Python3 제출  : 메모리(33688 KB)  시간(3880 ms)
 
 N, K = map(int, input().split())
 cache = [0] * (K+1)
@@ -42,6 +46,9 @@ print(cache[-1])
 
 
 # 딕셔너리 이용
+
+# PyPy3 제출    : 메모리(136596 KB) 시간(224 ms)
+# Python3 제출  : 메모리(40684 KB)  시간(924 ms)
 
 N, K = map(int, input().split())
 cache = {0: 0}

@@ -49,7 +49,7 @@
 """
 
 # PyPy3 제출    : 메모리(129652 KB) 시간(148 ms)
-# Python3 제출  : 메모리(47468 KB) 시간(880 ms)
+# Python3 제출  : 메모리(47468 KB)  시간(880 ms)
 
 # 참고 : https://hillier.tistory.com/95
 

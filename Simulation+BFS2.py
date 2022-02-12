@@ -77,7 +77,7 @@ Z.1----4..
 
 
 # PyPy3 제출    : 메모리(126168 KB) 시간(136 ms)
-# Python3 제출  : 메모리(32744 KB) 시간(96 ms)
+# Python3 제출  : 메모리(32744 KB)  시간(96 ms)
 
 # 참고 : https://yanoo.tistory.com/73
 
